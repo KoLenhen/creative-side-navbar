@@ -1,0 +1,18 @@
+.navigation__icon{
+    height: 45px;
+    width: 45px;
+    margin: 0 0 0 auto;
+    display: none;
+    transition: transform ease 0.3s;
+}
+
+.navigation__icon:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+@media screen and (max-width: 1200px) {
+    .navigation__icon{        
+        display: block;
+    }
+}

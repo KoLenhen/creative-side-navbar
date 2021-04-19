@@ -1,0 +1,8 @@
+.footer{
+    width: 100%;
+    margin: 0 auto;
+    padding: 25px 0 0 25px;
+    height: 130px;
+    background: rgb(255,255,255);
+    background: linear-gradient(355deg, rgba(255,255,255,1) 0%, rgba(126,135,238,1) 100%);
+}

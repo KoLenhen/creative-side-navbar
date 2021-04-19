@@ -1,0 +1,26 @@
+.navigation__item{
+    text-decoration: none;
+    color: #949be9;
+    font-weight: bold;    
+    margin: 0;
+    height: 45px;
+    border-bottom: 1px solid #949be9;
+    display: flex;
+    align-items: center;
+}
+
+.navigation__item:not(:first-child):hover {
+    background-color: #949be9;
+    border-color: #fff;
+    color: #fff;   
+}
+
+.navigation__item:not(:first-child):hover .navigation__link{
+ color: #fff;   
+}
+
+.navigation__item:first-child{
+    border: none;
+    height: 60px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    margin: 0;
+    padding: 25px;
+    height: 130px;
+    background: rgb(148,155,233);
+    background: linear-gradient(355deg, rgba(148,155,233,1) 0%, rgba(255,255,255,1) 58%);
+    text-align: right;
+    position: relative;
+}
+
+

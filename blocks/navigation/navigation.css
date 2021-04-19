@@ -1,0 +1,24 @@
+.navigation{
+    max-width: 315px;
+    width: 25%;
+    padding: 25px 25px;
+    margin: 0;
+    height: calc(100vh - 260px);
+    background-color: #dee0f8;
+    margin: 0;
+}
+
+@media screen and (max-width: 1200px) {
+    .navigation{
+        display: none;
+    }    
+    .navigation_mob_enabled{
+        position: absolute;
+        top: 0;
+        left: 0;
+        calc(100vh - 130px);
+        width: 315px;
+        display: block;
+    } 
+}
+

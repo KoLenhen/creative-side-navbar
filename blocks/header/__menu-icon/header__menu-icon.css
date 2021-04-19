@@ -1,0 +1,17 @@
+.header__menu-icon{
+    display: none;
+    width: 45px;
+    height: 45px;
+    transition: transform ease 0.3s;
+}
+
+.header__menu-icon:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+@media screen and (max-width: 1200px) {
+    .header__menu-icon{
+        display: block;
+    }
+}    
+    
