@@ -12,6 +12,7 @@
     .navigation{
         display: none;
     }    
+    
     .navigation_mob_enabled{
         position: absolute;
         top: 0;
