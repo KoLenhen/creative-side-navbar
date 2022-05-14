@@ -9,4 +9,4 @@
 6. Расположить в шапке страницы кнопку сворачивания/разворачивания меню
 7. Использовать flexbox
 
-ссылка на старинцу на gh-pages https://kolenhen.github.io/creative-side-navbar/
+ссылка на старинцу на gh-pages https://Kolezhanchik.github.io/creative-side-navbar/
